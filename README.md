@@ -71,7 +71,3 @@ pylint busqueda_binaria_anomalo.py
 ```
 *El resultado de este diagnóstico se encuentra guardado en `reporte_analisis_estatico.txt`.*
 
----
-
-## 🧑‍💻 Autores
-*   Desarrollado para la Actividad Autónoma 2.
